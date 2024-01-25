@@ -1,5 +1,4 @@
 from flask import Flask, request
-from pyngrok import ngrok
 import sett
 import services
 
